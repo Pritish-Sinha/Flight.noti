@@ -37,7 +37,7 @@ This project is a Flight Notification Service that notifies users about the stat
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/flight-notification-service.git
+    git clone git@github.com:Pritish-Sinha/Flight.noti.git
     cd ../backend
     ```
 
@@ -117,4 +117,4 @@ EMAIL_PASSWORD=your_email_password
 
 ### Demo
 - Due to limited access to the above-mentioned API services, the backend is not yet running actively. You need to run it locally with the newly created keys. 
-- The demo for the frontend is available through Vercel deployment [Flight.Noti](https://console.firebase.google.com/)
+- The demo for the frontend is available through Vercel deployment [Flight.Noti](https://flight-noti.vercel.app/)
