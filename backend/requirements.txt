@@ -1,0 +1,8 @@
+Flask
+Flask-PyMongo
+firebase-admin
+python-dotenv
+flask-cors
+twilio
+requests
+Werkzeug==2.2.2
